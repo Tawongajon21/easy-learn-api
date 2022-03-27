@@ -1,0 +1,280 @@
+[
+    {
+        "name":"Biology GCE Course",
+        "price":45.66,
+        "introductoryVideo":"introVideo.mp4",
+        "videos":[
+            {
+            
+            "videoName":"What Is Biology",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"What Is Biology.mp4"
+        },
+            {
+            
+            "videoName":"Human Skeletal System",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Human Skeletal System.mp4"
+        },
+            {
+            
+            "videoName":"Homeostasis Part 1",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        }
+    ],
+    "rating":4.5,
+    "description":"This is a Course of Biology",
+    "examType":"Zimsec",
+    "featured":false,
+    "category":"sciences",
+    "views":100
+    },
+    {
+        "name":"Advanced  Chemistry for A Levels",
+        "price":20.66,
+        "introductoryVideo":"introVideo.mp4",
+        "videos":[
+            {
+            
+            "videoName":"Atoms and Electrons",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Atoms and Electrons.mp4"
+        },
+            {
+            
+            "videoName":"Chemistry in Our Life",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"Chemistry For Agriculture",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        }
+    ],
+    "rating":4.5,
+    "description":"This is a Course of Advanced Chemistry",
+    "examType":"Cambridge",
+    "featured":false,
+    "category":"sciences",
+    "views":100
+    },
+    {
+        "name":"Shona O Level ",
+        "price":10.66,
+        "introductoryVideo":"introVideo.mp4",
+        "videos":[
+            {
+            
+            "videoName":"Mupanda ",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"Nyaodzosingwi",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"Zvindori",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        }
+    ],
+    "rating":4.5,
+    "description":"This is a Course",
+    "featured":false,
+    "examType":"Cambridge",
+    "category":"shona",
+    "views":1000
+    },
+    {
+        "name":"Computer Science For ZJC Students",
+        "price":50.66,
+        "introductoryVideo":"introVideo.mp4",
+        "videos":[
+            {
+            
+            "videoName":"What is Computer Science",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"What Is Computer Software",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"What Is Computer Hardware",
+            "video":"Journalism.mp4"
+        }
+    ],
+    "rating":4.5,
+    "description":"This is a Course for Computer Science",
+    "featured":false,
+    "examType":"Hexco",
+    "category":"sciences",
+    "views":50000
+    },
+    {
+        "name":"Physical Education for Grade 7",
+        "price":10.66,
+        "introductoryVideo":"introVideo.mp4",
+        "videos":[
+            {
+            
+            "videoName":"How To Exercise",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"What Is Cricket",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"The Origins of Soccer",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        }
+    ],
+    "rating":4.5,
+    "description":"This is a Course of Physical Education",
+
+    "featured":false,
+    "examType":"Zimsec",
+    "category":"sciences",
+    "views":90000
+    },
+    {
+        "name":"Fashion And Design",
+        "price":200.66,
+        "introductoryVideo":"introVideo.mp4",
+        "videos":[
+            {
+            
+            "videoName":"What Is Fabric Design",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"How to Design a Dress",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"How to Dye Clothes",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        }
+    ],
+    "rating":4.5,
+    "description":"This is a Course",
+    "examType":"Zimsec",
+    "featured":false,
+    "category":"sciences",
+    "views":500
+    },
+    {
+        "name":"Commerce",
+        "price":27.66,
+        "introductoryVideo":"introVideo.mp4",
+        "videos":[
+            {
+            
+            "videoName":"What Is Commerce",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"What Is Insuarance",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"What Is Transport and Procurring",
+            "video":"Journalism.mp4"
+        }
+    ],
+    "rating":4.5,
+    "description":"This is a Course of Commerce",
+    "featured":false,
+    "examType":"Zimsec",
+    "category":"commercials",
+    "views":10000
+    },
+    {
+        "name":"Accounting",
+        "price":50.66,
+        "introductoryVideo":"introVideo.mp4",
+        "videos":[
+            {
+            
+            "videoName":"What Is Accounting",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"What Is a T Balance",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"What Is a Balance Sheet",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        }
+    ],
+    "rating":4.5,
+    "description":"This is a Course of Accounting for Beginners",
+    "featured":false,
+    "examType":"Cambridge",
+    "category":"commercials",
+    "views":1200
+    },
+    {
+        "name":"Internet Of Things",
+        "price":20.66,
+        "introductoryVideo":"introVideo.mp4",
+        "videos":[
+            {
+            
+            "videoName":"What Is Internet of Things",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"Which programming languages that are used in IOT",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        },
+            {
+            
+            "videoName":"IOT Project 1hr Project",
+            "videoDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dignissimos.",
+            "video":"Journalism.mp4"
+        }
+    ],
+    "rating":5,
+    "description":"This is a Course of IOT",
+    "featured":false,
+    "examType":"Cambridge",
+    "category":"Information Technology",
+    "views":500
+    }
+]
